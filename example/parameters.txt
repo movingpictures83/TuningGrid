@@ -1,0 +1,5 @@
+depth	interaction.depth.txt
+numtrees	50
+maxcol	30
+shrinkage	0.1
+minobsinnode	20
